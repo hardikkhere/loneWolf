@@ -5,7 +5,8 @@ const Footer = () => {
     <footer>
       <div>
         <h1>hStar</h1>
-        <p>@all right reserved</p>
+        <p>&#169; All right reserved</p>
+        <span>By Hardik</span>
       </div>
 
       <div>
